@@ -1,0 +1,11 @@
+MCoreLib Bungee Pack - Die Erweiterung der geliebten Bibliothek für Bungee-Plugins
+~ Development by MCfrek99 and TiSan
+
+                 >~ Concept Paper ~<
+
+
+>>> Noch zu erledigen:
+
+
+Erledigt:
+

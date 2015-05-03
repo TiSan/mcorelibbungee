@@ -1,0 +1,6 @@
+name: MCoreLibBungeePack
+main: de.timc.mcorelib.bungee.plugin.MCoreBungeePlugin
+version: 0.1
+depend: [MCoreLib]
+description: MCoreLibBungeePack
+commands:
